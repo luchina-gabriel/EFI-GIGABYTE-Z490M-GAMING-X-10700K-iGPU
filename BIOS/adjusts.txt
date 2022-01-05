@@ -1,0 +1,14 @@
+Advanced Mode (F2)
+
+Save & Exit > Load Optimized Defaults
+
+Settings > IO Ports > Internal Graphics > Enabled
+Settings > IO Ports > DVMT Pre-Allocated > 64
+Settings > IO Ports > DVMT Total Gfx Mem > MAX
+Settings > IO Ports > Above 4G Decoding > Enabled
+Settings > IO Ports > Re-size BAR Support > Disabled
+Settings > IO Ports > Super IO Configuration > Serial Port > Disabled
+Settings > IO Ports > Miscellaneous > Intel Platform Trust Technology (PTT) > Disabled
+Settings > IO Ports > Miscellaneous > Software Guard Extensions (SGX) > Disabled
+Boot > Secure Boot > Secure Boot
+Boot > Full Screen LOGO Show > Disabled
